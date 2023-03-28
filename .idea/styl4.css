@@ -1,0 +1,99 @@
+body {
+background: rgba( 64, 224, 208, 0.4);
+    margin: 0 20%;
+}
+
+.bodytext h2{
+    font-size: xxx-large;
+    color: rgba(70, 130, 180);
+    text-align: center;
+    font-family: Garamond;
+    font-variant: small-caps;
+
+}
+.bodytext p{
+    color: rgba(70, 130, 180);
+    font-size: x-large;
+    font-family: Garamond;
+    font-weight: bold;
+    font-variant: small-caps;
+
+}
+
+.maintext h3{
+    color: rgba(70, 130, 180);
+    font-size: x-large;
+    font-style: italic;
+    font-family: Garamond;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.maintext p{
+    color: rgba(70, 130, 180);
+    font-size: larger;
+    font-family: Garamond;
+    font-weight: 500;
+}
+.sycylia{
+width:830px;
+height:430px;
+margin:2mm;
+}
+.sardynia{
+width:830px;
+height:430px;
+margin:2mm;
+}
+.capri{
+width:830px;
+height:430px;
+margin:2mm;
+}
+
+
+.menu, .footer {
+    background: rgba( 72, 209, 204, 1.0);
+    border: 3px solid #acacac;
+    padding: 10px;
+    text-align: center;
+    font-family: Calibri;
+    color: black;
+    opacity: 0.9;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.menu a:hover{
+    color: 	rgba(95, 158, 160);
+
+}
+
+.menu a:visited{
+    color: darkslateblue;
+
+}
+
+.menu a:active{
+    color: darkblue;
+
+}
+
+.bodytext {
+    font-family: Calibri;
+    color: white;
+}
+
+a {
+    color: #6b1d1d;
+    font-size: 18px;
+    font-weight: bold;
+}
+#mh1 {
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+}
